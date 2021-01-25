@@ -4,7 +4,7 @@ package id
 import (
 	"errors"
 
-	"github.com/emersion/go-imap"
+	"github.com/linanh/go-imap"
 )
 
 // The ID capability.

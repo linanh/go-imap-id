@@ -1,8 +1,8 @@
 package id
 
 import (
-	"github.com/emersion/go-imap"
-	"github.com/emersion/go-imap/responses"
+	"github.com/linanh/go-imap"
+	"github.com/linanh/go-imap/responses"
 )
 
 // An ID response.
